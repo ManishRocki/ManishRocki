@@ -1,4 +1,4 @@
-# Hi there, I'm ManishRocki! 👋
+# Hi there, I'm Manish! 👋
 
 ## About Me
 I'm a passionate software developer with a keen interest in open-source projects and cutting-edge technologies. I love exploring new programming languages and frameworks, and I'm always eager to learn and contribute to the developer community.
